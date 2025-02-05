@@ -1,0 +1,23 @@
+[
+    {
+        "faithfulness": 1.0,
+        "llm_context_precision_without_reference": 0.9999999999,
+        "answer_relevancy": 0.8437830172102964,
+        "iterations": 3,
+        "llm_evaluator": "gpt-4o-mini"
+    },
+    {
+        "faithfulness": 1.0,
+        "llm_context_precision_without_reference": 0.9999999998999999,
+        "answer_relevancy": 0.8437689350160027,
+        "iterations": 5,
+        "llm_evaluator": "gpt-4o-mini"
+    },
+    {
+        "faithfulness": 1.0,
+        "llm_context_precision_without_reference": 0.9999999999,
+        "answer_relevancy": 0.8437769691617142,
+        "iterations": 7,
+        "llm_evaluator": "gpt-4o-mini"
+    }
+]

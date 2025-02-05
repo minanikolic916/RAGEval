@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2025-02-05T10:54:20.135562",
+        "query": "Da li solarni paneli mogu da se postave na zemlju?",
+        "retrieval_context": [
+            "Paneli mogu da se postave i na zemlji, pri čemu su potrebni posebni metalni nosači, postavljeni sa odgovarajućim stubovima ukopanim u zemlju. Ovo je skuplje rešenje nego postavljanje panela na objekte. Tehnički je moguće i zahteva malo više radova i opreme za montažu."
+        ],
+        "actual_output": "  odgovor = Da, solarni paneli se mogu postaviti na zemlju, ali to je skuplje rešenje nego postavljanje panela na objekte. Za postavljanje na zemlju su potrebni posebni metalni nosači, postavljeni sa odgovarajućim stubovima ukopanim u zemlju. Ovo je tehnologija koja zahteva malo više radova i opreme za montažu."
+    },
+    {
+        "timestamp": "2025-02-05T10:54:39.225844",
+        "query": "Da li se smanjuje efikasnost opreme?",
+        "retrieval_context": [
+            "Performanse panela se uglavnom smanjuju za 0.4% godišnje, što je podatak koji se može naći na deklaraciji proizvođača fotonaponskih panela. Druga oprema ne menja svoju efikasnost tokom perioda korišćenja."
+        ],
+        "actual_output": "  Odgovor: Da, efikasnost fotonaponskih panela se smanjuje za 0.4% godišnje, dok druga oprema ne menja svoju efikasnost tokom perioda korišćenja."
+    },
+    {
+        "timestamp": "2025-02-05T10:54:51.961375",
+        "query": "Da li se smanjuje racun za struju?",
+        "retrieval_context": [
+            "Solarni paneli doprinose smanjenju računa za struju tako što generišu električnu energiju koja može značajno smanjiti zavisnost od elektrodistribucije. \r\nPrekomerno proizvedena energija može se vratiti u mrežu (sistem neto merenja), što dodatno snižava račune za struju."
+        ],
+        "actual_output": "  Odgovor: Da, solarni paneli doprinose smanjenju racuna za struju tako što generišu električnu energiju koja može značajno smanjiti zavisnost od elektrodistribucije, a prekomerno proizvedena energija može se vratiti u mrežu (sistem neto merenja), što dodatno snižava racune za struju."
+    },
+    {
+        "timestamp": "2025-02-05T10:55:16.165580",
+        "query": "Da li solarne elekrane doprinose ekoloskoj odrzivosti?",
+        "retrieval_context": [
+            "Solarne elektrane doprinose ekološkoj održivosti. Solarna energija je obnovljiv izvor energije, što znači da njeno korišćenje smanjuje emisiju štetnih gasova i doprinosi borbi protiv klimatskih promena."
+        ],
+        "actual_output": "  Odgovor: Da, solarne elektrane doprinose ekološkoj održivosti, jer su one obnovljivi izvor energije koji smanjuju emisiju štetnih gasova i doprinosi borbi protiv klimatskih promena."
+    },
+    {
+        "timestamp": "2025-02-05T10:55:58.882825",
+        "query": "Da li solarni paneli omogucavaju energetsku nezavisnost?",
+        "retrieval_context": [
+            "Solarni paneli omogućavaju energetsku nezavisnost tako što njihovim korišćenjem domaćinstvo postaje manje zavisno od fluktuacija cena energije na tržištu i nestašica struje.\r\nOvo je posebno važno u slučajevima nestanka struje ili kada mreža nije pouzdana."
+        ],
+        "actual_output": "  odgovor = Da, solarni paneli omogucavaju energetsku nezavisnost domaćinstva tako što njihovim korišćenjem domaćinstvo postaje manje zavisno od fluktuacija cena energije na tržištu i nestašica struje. Ovo je posebno važno u slučajevima nestanka struje ili kada mreža nije pouzdana."
+    }
+]
